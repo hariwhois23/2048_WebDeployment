@@ -41,6 +41,7 @@ Visit http://localhost:8080 in your browser to verify.
 Initialize Elastic Beanstalk in your project directory:
 
 $ eb init
+
 Follow the prompts to configure Elast ic Beanstalk. Ensure you select the correct region and platform (Docker).
 
 
