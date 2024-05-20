@@ -15,7 +15,6 @@ Clone the 2048 game repository to your local machine:
 
 $ git clone https://github.com/gabrielecirulli/2048.git
 
-$ cd 2048
 
 # Step 2: Create a Dockerfile
 
