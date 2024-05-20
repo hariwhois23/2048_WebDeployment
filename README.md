@@ -33,7 +33,7 @@ $ docker build -t 2048.0-game .
 
 Run the Docker container to ensure the game works locally:
 
-$ docker run -p 8080:8080 2048-game
+$ docker run -p 8080:80 2048-game
 
 Visit http://localhost:8080 in your browser to verify.
 
